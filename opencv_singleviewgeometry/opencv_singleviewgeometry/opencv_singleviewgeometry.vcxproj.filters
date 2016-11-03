@@ -18,8 +18,5 @@
     <ClCompile Include="geometry.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="homography.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
